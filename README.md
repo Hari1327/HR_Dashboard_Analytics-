@@ -21,7 +21,7 @@ This project involves the development of an interactive HR Analytics Dashboard u
 
 ## Files in This Repository
 - **`HR.twbx`**: The Tableau Packaged Workbook containing the dashboard and data.
-- **`sample_data.csv`**: A sample dataset used in the project (if applicable).
+- **`HR Data.xlsx`**: A sample dataset used in the project (if applicable).
 - **`dashboard_screenshot.png`**: A preview of the dashboard.
 - **`README.md`**: Documentation for this project.
 
