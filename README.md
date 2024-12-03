@@ -47,7 +47,3 @@ This project involves the development of an interactive HR Analytics Dashboard u
 For questions or collaboration opportunities, feel free to contact me via:
 - **Email:** - nuhari75@gmail.com
 - **LinkedIn:** - https://www.linkedin.com/in/hari-haran-nagarajan/
-
----
-
-Feel free to update the contact information and preview image file as needed! Let me know if you need additional sections or modifications.
