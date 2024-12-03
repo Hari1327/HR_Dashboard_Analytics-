@@ -26,7 +26,7 @@ This project involves the development of an interactive HR Analytics Dashboard u
 - **`README.md`**: Documentation for this project.
 
 ## How to Use
-1. Download the `HR_Analytics_Dashboard.twbx` file.
+1. Download the `HR.twbx` file.
 2. Open the file in **Tableau Desktop** or **Tableau Reader**.
 3. Interact with the dashboard by exploring filters and visualizations.
 
