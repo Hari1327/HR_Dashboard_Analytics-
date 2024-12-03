@@ -16,7 +16,8 @@ This project involves the development of an interactive HR Analytics Dashboard u
   - Filterable and drillable visualizations for in-depth analysis.
 
 ## Dashboard Preview
-![Screenshot 2024-12-03 094114](https://github.com/user-attachments/assets/78dad42b-ee68-4c80-b797-dcaafdd131db)
+![Screenshot 2024-12-03 104839](https://github.com/user-attachments/assets/14348889-3e1d-4af6-b7df-b9fc7d773592)
+
 
 ## Files in This Repository
 - **`HR_Analytics_Dashboard.twbx`**: The Tableau Packaged Workbook containing the dashboard and data.
